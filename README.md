@@ -74,7 +74,7 @@
 
 ```bash
 # Clone repository
-git clone https://github.com/Aslaan001/Image-Analayzing-Tool.git
+git clone https:XYZ
 cd Image-Analayzing-Tool
 
 # Install dependencies
@@ -105,3 +105,4 @@ npm run build
 npm start
 
 ```
+
